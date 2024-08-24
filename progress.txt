@@ -1,0 +1,10 @@
+DONE:
+    basic particle
+        in 2D xz plane
+        in 2D zy plane with gravity and air resistance
+
+NEED TO DO:
+    better implementation of more particle
+    better collison physics between particles <- DOING RN
+
+
